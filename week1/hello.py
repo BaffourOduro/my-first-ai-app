@@ -7,13 +7,16 @@ Run it with:   python week1/hello.py
 """
 
 # TODO: print a greeting
-print("Good evening, everyone!")
+print("Good Afternoon, everyone")
 
 # TODO: create a variable with your name, and use it in a message
-name = "Shadrack"
+name = "Baffour"
 
 # TODO: 
-message = "Good evening, I am "
+message = "Good afternoon, I am "
+
+# TODO: create a variable with your project, and use it in a message
+project = " and this is my first python project"
 
 
-print(message + name )
+print(message + name + project)
